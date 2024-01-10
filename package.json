@@ -1,0 +1,22 @@
+{
+  "name": "obc-discord-bot",
+  "version": "0.0.1",
+  "description": "Simple Moderation Bot for OBC Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worldspawn-web/obc-discord-bot.git"
+  },
+  "author": "Worldspawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldspawn-web/obc-discord-bot/issues"
+  },
+  "homepage": "https://github.com/worldspawn-web/obc-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
