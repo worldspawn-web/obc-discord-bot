@@ -1,0 +1,5 @@
+/node_modules/
+
+# THERE MUST BE TOKEN & PREFIX
+# CURRENTLY IT'S HIDDEN, SINCE THE REPO IS PUBLIC
+src/config.json
