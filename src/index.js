@@ -5,13 +5,16 @@
 
 const fs = require('node:fs');
 const path = require('node:path');
-const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
+const { Client, Collection, GatewayIntentBits } = require('discord.js');
 const { token } = require('./config.json');
 
 // create a new client interface
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
-// Command Handler
+// Cooldown Store (Arch: cooldowns -> command -> user -> timestamp)
+client.cooldowns = new Collection();
+
+// Command Handler Store
 client.commands = new Collection();
 
 const foldersPath = path.join(__dirname, 'commands');
