@@ -35,7 +35,7 @@ const rest = new REST().setToken(token);
 (async () => {
   try {
     console.log(
-      `Started refreshing ${commands.length} application (/) commands.`
+      `Щас обновлю все задания (Кол-во: ${commands.length}), погоди, браток...`
     );
 
     // The put method is used to fully refresh all commands in the guild with the current set.
@@ -48,9 +48,7 @@ const rest = new REST().setToken(token);
       { body: commands }
     );
 
-    console.log(
-      `Successfully reloaded ${data.length} application (/) commands.`
-    );
+    console.log(`Дело сделано, браче, всё обновил!`);
   } catch (error) {
     // And of course, make sure you catch and log any errors!
     console.error(error);

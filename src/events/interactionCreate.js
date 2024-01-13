@@ -8,9 +8,7 @@ module.exports = {
     const command = interaction.client.commands.get(interaction.commandName);
 
     if (!command) {
-      console.error(
-        `No command matching ${interaction.commandName} was found.`
-      );
+      console.error(`Команда ${interaction.commandName} не найдена...`);
       return;
     }
 
@@ -31,7 +29,7 @@ module.exports = {
       if (now < expirationTime) {
         const expiredTimestamp = Math.round(expirationTime / 1000);
         return interaction.reply({
-          content: `Не спамь, сука! Отдохни ещё - <t:${expiredTimestamp}:R>.`, // TODO: add locales
+          content: `Не спамь, сука! Отдохни **${defaultCooldownDuration} секунд**, я тебя умоляю.`, // TODO: add locales
           ephemeral: true,
         });
       }
@@ -48,12 +46,12 @@ module.exports = {
       console.error(error);
       if (interaction.replied || interaction.deferred) {
         await interaction.followUp({
-          content: 'There was an error while executing this command!',
+          content: 'Бля, хуйня какая-то, не могу выполнить команду!',
           ephemeral: true,
         });
       } else {
         await interaction.reply({
-          content: 'There was an error while executing this command!',
+          content: 'Бля, хуйня какая-то, не могу выполнить команду!',
           ephemeral: true,
         });
       }
