@@ -4,6 +4,8 @@
   "description": "Simple Moderation Bot for OBC Discord",
   "main": "index.js",
   "scripts": {
+    "updateCommands": "node src/deployCommands.js",
+    "start": "node src/deployCommands.js && node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
