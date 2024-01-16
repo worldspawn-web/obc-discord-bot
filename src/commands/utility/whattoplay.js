@@ -19,13 +19,8 @@ module.exports = {
   async execute(interaction) {
     const category = interaction.options.getString('category');
 
-    // TODO: Refactor this code.
     let focusCategory;
-    if (category === 'mp') {
-      focusCategory = mp;
-    } else {
-      focusCategory = sp;
-    }
+    category === 'mp' ? (focusCategory = mp) : (focusCategory = sp);
 
     const gamesAmount = focusCategory.length;
     const randomizer = Math.floor(Math.random() * gamesAmount);
