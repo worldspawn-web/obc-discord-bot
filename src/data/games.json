@@ -4,19 +4,106 @@
       "id": 0,
       "game": "Black Mesa",
       "description": "Ну смотри, ты короче за учёного шпилишь, тебя подставили и во время научного ёптвоюмать эксперимента ебануло так, что аж гамадрилы из параллельной вселенной услышали, да прилетели все, позырить чё кого хлопнули. Тебе предстоит исправить все косяки, пробежаться по полу-разрушенным лабораториям, коридорам, захуярить несколько сотен ебак, защитить голубков учёных, ха-ха-ха.",
-      "link": "https://store.steampowered.com/app/362890/Black_Mesa/"
+      "link": "https://store.steampowered.com/app/362890/Black_Mesa/",
+      "recommendedBy": "@worldspawn"
     },
     {
       "id": 1,
       "game": "Beholder",
       "description": "Ты везунчик ёпта, выиграл в лотерее на рабочее место консьержем в жилом доме. Ахуенный приз, но не суть. Ты проживаешь в государстве, где без директивы Вождя нельзя даже посрать. Необходимо, будучи консьержем, подсекать за всеми жителями, выведывать их секреты, нарушения, а потом сдавать их нахуй государству... или же пойти против самого Вождя и помогать всем преступникам? Решай сам, пацанчик, но не забывай, что у тебя есть жена и двое детей. Их безопасность зависит от тебя.",
-      "link": "https://store.steampowered.com/app/475550/Beholder/"
+      "link": "https://store.steampowered.com/app/475550/Beholder/",
+      "recommendedBy": "@worldspawn"
     },
     {
       "id": 2,
       "game": "House Flipper",
       "description": "Мы открываем бизнес, мы будем делать бабки! Открой свой бизнес, выполняя поручения по дому от разных типов! Снести к хуям стены в доме? Легко! Клининг дома после лютой вписке? Это к нам. Сделать из бабушкиной однушки евродвушку? Раз плюнуть! Короче, мля, симулятор ремонта. В этой вселенной, человек-дрель - это ты.",
-      "link": "https://store.steampowered.com/app/613100/_/"
+      "link": "https://store.steampowered.com/app/613100/_/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 3,
+      "game": "Beholder 2",
+      "description": "Твоего батяню - руководителя дохуя секретным отделом в Министерстве, загадочным образом вальнули. Перед тем чтобы откинуться, он оставил тебе загадочную маляву, а также приглашение на работу в Министерство. Начни свой карьерный путь с самых низов, сливай коллег на своём пути, или же поднимайся по карьерной лестнице честным путём (ну ты псих внатуре), а так же разгадай тайну гибели своего бати.",
+      "link": "https://store.steampowered.com/app/761620/Beholder_2/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 4,
+      "game": "ШХД: Лето (Бытовой Подвиг)",
+      "description": "Если на душе как-то тоскливо, то почему бы не ухудшить своё самочувствие? Ты среднестатистический работяга, проживаешь один в небольшом совковом жилом комплексе. Из хобби лишь тщетные попытки в творчество, а именно в стихи. И хотелось бы поймать вдохновение, но вокруг лишь гаражи, убитые подъезды и засраные остановки. По телевизору крутят лишь новости, а если слушать радио - вообще можно расплакаться. \nТак и проходят твои дни Сурка: Проснулся -> Поел -> Работа -> Дом -> Стихи -> Поел -> Лёг Спать. \nНо может однажды твои стихи изменят твою жизнь?",
+      "link": "https://store.steampowered.com/app/1901780/__Routine_Feat/?l=russian",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 5,
+      "game": "Bright Lights of Svetlov",
+      "description": "Ты обычный работяга на советском заводе. Вам с семьёй выдали новую квартиру, недалеко от завода. Но чем дольше Вы проживаете в этом доме - тем больше странностей начинает происходить. Чем же это закончится?",
+      "link": "https://store.steampowered.com/app/1630920/Bright_Lights_of_Svetlov/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 6,
+      "game": "Cry of Fear",
+      "description": "Игра про одного депрессыша социофоба в серой кофте. Возвращаясь домой с занятий, его намеренно давит неизвестный в тонированной приоре. Спустя время, наш главный герой просыпается в одном из неизвестных переулков. И чем дальше - тем более странные вещи происходят вокруг. Сможет ли он дойти до дома, до того как заряд на его телефоне сядет? И реально ли это всё?",
+      "link": "https://store.steampowered.com/app/223710/Cry_of_Fear/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 7,
+      "game": "Do Not Feed the Monkeys",
+      "description": "Симулятор вуайериста. Подсекай за жителями/жительницами мегаполиса, узнавай страшные правды, раскрывай преступления, шантажируй, сливай информацию. \nИ самое главное - никогда не корми обезьян.",
+      "link": "https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 8,
+      "game": "Gravitas",
+      "description": "Просыпаешься без памяти в какой-то лазерной лаборатории, а выйти тебе мешает какой-то безумный пидорский куб! \nСбеги от этого кубоида с помощью своего дара - управление гравитацией.",
+      "link": "https://store.steampowered.com/app/1067310/Gravitas/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 9,
+      "game": "Internet Cafe Simulator 2",
+      "description": "Помните те старые, пропитые, прокуренные компьютерные клубы с начала нулевых/десятых? Так вот эта игра про организацию подобного компьютерного клуба. Покупайте площадь, компы, комплектующие. Следите за качеством сервиса, ставьте антивирусы на компы, кондиционеры. Ловите воров клавиатур, мышек и прочей периферии. \nЭволюционируйте из обычного подпивасного клуба в место для зарождения киберспорта!",
+      "link": "https://store.steampowered.com/app/1563180/Internet_Cafe_Simulator_2/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 10,
+      "game": "Kill it With Fire",
+      "description": "Всю жизнь боялись пауков? Эта игра точно для Вас. Честно. Ни разу не вру. Никто не будет резко прыгать Вам на лицо со шкафа или осматриваемого предмета. Никто не будет ползать по Вашей руке. Никто не будет шипеть где-то под ухом. \nНо вот что точно будет - это тонна оружия и примерно два кирпичных завода.",
+      "link": "https://store.steampowered.com/app/1179210/Kill_It_With_Fire/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 11,
+      "game": "Life is Strange",
+      "description": "Всегда хотел знать как живёт типичная девочка-подросток в США? Лучший способ узнать, в рамках текущих санкций. Играем за девочку-тинейджера, которая вернулась в родное село, бросив учёбу в перспективном колледже. Однажды она открывает в себе силу - управлять временем. Как оказалось, цена данной силы - слишком велика...",
+      "link": "https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 12,
+      "game": "Papers, Please",
+      "description": "Симулятор паспортиста на КПП в строгом коммунистическом государстве. Короче говоря, денег нет, отопления нет, все болеют, по 500 новых директив каждый день, война, люди ломятся через границу в поисках лучшей жизни, террористы взрывают стены, охранники пытаются темки мутить - и всё это на тебе, в купе с основной задачей - проверкой паспортов и прочих документов.",
+      "link": "https://store.steampowered.com/app/239030/Papers_Please/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 13,
+      "game": "Superliminal",
+      "description": "В этой игре всё не то, чем кажется. Видишь этот сыр? Это не сыр блять, это коробка. Видишь эту маленькую пешку на шахматной доске? Неправильно блять, это конь высотой в потолок. Видишь в конце коридора кубик? А нихуяя, это кто-то 3D граффити нарисовал, придурок мля. \nКороче, в этой игре тебя погружают в управляемый сон, но в какой-то момент твоим сном больше невозможно управлять и мозг начинает творить лютые вещи.",
+      "link": "https://store.steampowered.com/app/1049410/Superliminal/",
+      "recommendedBy": "@worldspawn"
+    },
+    {
+      "id": 14,
+      "game": "Subnautica",
+      "description": "Твоё космическое судно потерпело крушение на водной планете. Связи с родной планетой нет - начальные ресурсы сильно ограничены. Придётся добывать всё под водой. \nСможешь ли ты выжить в среде, полной устрашающих обитателей глубин?",
+      "link": "https://store.steampowered.com/app/264710/Subnautica/",
+      "recommendedBy": "@worldspawn"
     }
   ],
   "mp": [
@@ -29,8 +116,110 @@
     {
       "id": 1,
       "game": "Euro Truck Simulator 2",
-      "description": "Мы едем на шашлыки, сосиски жарить? Создавай конвой и галопом по Европе на бимерах!",
+      "description": "Мы едем на шашлыки или сосиски жарить? Создавай конвой и галопом по Европе на бимерах!",
       "link": "https://media1.tenor.com/m/OAfxiOEHqEMAAAAd/forza-horizon-5-bmw-i4-edrive40.gif"
+    },
+    {
+      "id": 2,
+      "game": "Call of Duty: Black Ops",
+      "description": "Вспомним старые деньки, Мэйсон!",
+      "link": "https://media1.tenor.com/m/6_Xb5hQuD1kAAAAd/call-of-duty-call-of-duty-black-ops.gif"
+    },
+    {
+      "id": 3,
+      "game": "Call of Duty: Modern Warfare 2 (MW2)",
+      "description": "Вспомним старые деньки, Гоуст!",
+      "link": "https://media1.tenor.com/m/nkamtHslZysAAAAd/bye-bye-ghost-looser.gif"
+    },
+    {
+      "id": 4,
+      "game": "Counter-Strike: Source",
+      "description": "Погнали в гангейм или посёрфим?",
+      "link": "https://media1.tenor.com/m/nLSPDXcShSUAAAAd/bhop-bomb.gif"
+    },
+    {
+      "id": 5,
+      "game": "Day of Defeat: Source",
+      "description": "Родина Мать - зовёт!",
+      "link": "https://media1.tenor.com/m/tCS0GA1Ot3oAAAAd/day-of-defeat-dods.gif"
+    },
+    {
+      "id": 6,
+      "game": "Garry's Mod",
+      "description": "А может в гарис? \nПропхант или Кастомку, например.",
+      "link": "https://media1.tenor.com/m/4WrDgQ7mvxwAAAAd/funny-as-hell-beat-saber.gif"
+    },
+    {
+      "id": 7,
+      "game": "Golf With Your Friends",
+      "description": "Господа гольфисты, время сбора!",
+      "link": "https://media1.tenor.com/m/tkugbZyXVYcAAAAd/fineszn-yonceswrld.gif"
+    },
+    {
+      "id": 8,
+      "game": "Goose Goose Duck",
+      "description": "Мы регаем гусей или тут одни утки?",
+      "link": "https://media1.tenor.com/m/BRfKDZEC_7MAAAAC/goosegooseduck-ggd.gif"
+    },
+    {
+      "id": 9,
+      "game": "Half-Life 2: Deathmatch",
+      "description": "Я в тебя щас бочкой кину, если сейчас же не пойдешь в HL2:DM!",
+      "link": "https://media1.tenor.com/m/3ZsDHHpZT-AAAAAd/milly-rock-half-life2.gif"
+    },
+    {
+      "id": 10,
+      "game": "Insurgency: Sandstorm",
+      "description": "Предлагаю отправиться на войну...",
+      "link": "https://media1.tenor.com/m/-tnQZ5V_ZGsAAAAC/chaos-insurgency.gif"
+    },
+    {
+      "id": 11,
+      "game": "Killing Floor 1/2",
+      "description": "Моя бабушка выживает лучше тебя!",
+      "link": "https://media1.tenor.com/m/E-56id3JoFgAAAAd/killing-floor2-fleshpound.gif"
+    },
+    {
+      "id": 12,
+      "game": "Lethal Company",
+      "description": "Пора работать, Компания денег просит!",
+      "link": "https://media1.tenor.com/m/i2JBglAcxkYAAAAC/lethal-company-zoolander.gif"
+    },
+    {
+      "id": 13,
+      "game": "PUBG",
+      "description": "Победа победа - вместо обеда.",
+      "link": "https://media1.tenor.com/m/SYGdh_IzeJ0AAAAC/techcrazebk-wanna-play-pubg.gif"
+    },
+    {
+      "id": 14,
+      "game": "Rising Storm 2: Vietnam",
+      "description": "Джонни, они на деревьях!",
+      "link": "https://media1.tenor.com/m/MMDkjizo6gMAAAAd/hop-on-rising-storm.gif"
+    },
+    {
+      "id": 15,
+      "game": "The Ship",
+      "description": "Кто-то на корабле предатель! Вычислите его!",
+      "link": "https://media1.tenor.com/m/JMp1oMPcT_kAAAAd/tea-game.gif"
+    },
+    {
+      "id": 16,
+      "game": "Battlefield (любой)",
+      "description": "Война без особых причин...",
+      "link": "https://media1.tenor.com/m/cEZ5drXXqgYAAAAd/battlefield2042-2042.gif"
+    },
+    {
+      "id": 17,
+      "game": "Left 4 Dead 1/2",
+      "description": "Наступил зомби-апокалипсис. Хватай биту, ствол, подружку - и бежим в безопасную зону!",
+      "link": "https://media1.tenor.com/m/xLXYm2_1uGcAAAAC/ellis-left4dead2.gif"
+    },
+    {
+      "id": 18,
+      "game": "Call of Duty: World at War",
+      "description": "Кто не доживёт до 14 волны - тот лох.",
+      "link": "https://media1.tenor.com/m/mcX1pAbrMDUAAAAd/cod-zombies.gif"
     }
   ]
 }
