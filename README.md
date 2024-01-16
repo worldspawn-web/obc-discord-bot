@@ -38,5 +38,5 @@ npm ci
 3. Run the bot:
 
 ```
-    npm run start
+npm run start
 ```
