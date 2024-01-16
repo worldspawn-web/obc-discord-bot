@@ -23,12 +23,14 @@
     {
       "id": 0,
       "game": "Counter-Strike 2",
-      "description": "Да погнали в кску, заебал!"
+      "description": "Да погнали в кс, заебал!",
+      "link": "https://media1.tenor.com/m/NBJAv_Tm5pAAAAAd/cs2-cs2time.gif"
     },
     {
       "id": 1,
       "game": "Euro Truck Simulator 2",
-      "description": "Мы едем на шашлыки, сосиски жарить? Создавай конвой и галопом по Европе на бимерах!"
+      "description": "Мы едем на шашлыки, сосиски жарить? Создавай конвой и галопом по Европе на бимерах!",
+      "link": "https://media1.tenor.com/m/OAfxiOEHqEMAAAAd/forza-horizon-5-bmw-i4-edrive40.gif"
     }
   ]
 }
