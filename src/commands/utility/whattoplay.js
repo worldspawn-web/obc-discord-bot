@@ -27,8 +27,6 @@ module.exports = {
 
     const { game, description, link } = focusCategory[randomizer];
 
-    await interaction.reply(
-      `Предлагаю - **${game}** \n\`\`\`${description}\`\`\`${link}`
-    );
+    await interaction.reply(`**${game}** \n\`\`\`${description}\`\`\`${link}`);
   },
 };
